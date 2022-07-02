@@ -1,7 +1,7 @@
 {
-  "name": "alphabot-md",
+  "name": "raf botz",
   "version": "1.0.0",
-  "description": "Simple whatsapp bot with multi device.",
+  "description": "Bot Whatsapp Multi Device",
   "main": "main.js",
   "directories": {
     "lib": "lib"
